@@ -11,3 +11,5 @@ A tool for analyzing text data in Django backend
 <h1>Requirments</h1>
 python3<br>
 django<br>
+
+This project was made with the help and refernce of WWW.codewithharry.com
